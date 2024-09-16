@@ -6,6 +6,3 @@ order: 4
 
 > about me
 {: .prompt-tip }
-
-##这里是小张。
-{: .prompt-tip }
